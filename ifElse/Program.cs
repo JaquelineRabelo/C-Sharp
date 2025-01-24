@@ -1,14 +1,6 @@
-﻿// if e else
+﻿using System;
 
-if (condição)
-{
-    // Código a ser executado se a condição for verdadeira
-}
-else
-{
-    // Código a ser executado se a condição for falsa
-}
-
+// Estruturas de Controle: if e else
 
 int idade = 18;
 
@@ -21,8 +13,7 @@ else
     Console.WriteLine("Você é menor de idade.");
 }
 
-
-// Adiciona mais condições ao controle.
+// Adicionando mais condições ao controle com else if
 int nota = 85;
 
 if (nota >= 90)
@@ -38,20 +29,7 @@ else
     Console.WriteLine("Estude mais! Você tirou C.");
 }
 
-//Uma alternativa ao if para comparar uma variável com vários valores.
-switch (variavel)
-{
-    case valor1:
-        // Código para valor1
-        break;
-    case valor2:
-        // Código para valor2
-        break;
-    default:
-        // Código padrão
-        break;
-}
-
+// Usando switch para várias comparações
 int diaSemana = 3;
 
 switch (diaSemana)
@@ -70,27 +48,15 @@ switch (diaSemana)
         break;
 }
 
+// Estruturas de Repetição
 
-//2. Estruturas de Repetição
-
-
-for (inicialização; condição; incremento)
-{
-    // Código a ser repetido
-}
-
+// 1. for - Executa um bloco de código com contador
 for (int i = 1; i <= 5; i++)
 {
     Console.WriteLine($"Contagem: {i}");
 }
 
-//2.2 while - Repete um bloco de código enquanto a condição for verdadeira.
-
-while (condição)
-{
-    // Código a ser repetido
-}
-
+// 2. while - Repete enquanto a condição for verdadeira
 int contador = 1;
 
 while (contador <= 5)
@@ -99,15 +65,7 @@ while (contador <= 5)
     contador++;
 }
 
-
-//o-while - Garante que o bloco de código será executado pelo menos uma vez antes de verificar a condição.
-do
-{
-    // Código a ser repetido
-} while (condição);
-
-//
-
+// 3. do-while - Executa pelo menos uma vez antes de verificar a condição
 int numero;
 
 do
@@ -118,10 +76,9 @@ do
 
 Console.WriteLine($"Você digitou o número {numero}.");
 
-// . Exemplos Práticos
-//3.1 Calculando a Soma dos Números
-//Peça ao usuário um número n e calcule a soma dos números de 1 até n.
+// Exemplos Práticos
 
+// 1. Calculando a soma dos números de 1 até n
 Console.WriteLine("Digite um número:");
 int n = int.Parse(Console.ReadLine());
 
@@ -133,28 +90,23 @@ for (int i = 1; i <= n; i++)
 
 Console.WriteLine($"A soma de 1 até {n} é {soma}.");
 
-
-//3.2 Validação de Entrada
-//Peça uma nota entre 0 e 10. Repita enquanto o valor for inválido.
-
-int nota;
+// 2. Validação de entrada: Nota entre 0 e 10
+int notaValida;
 
 do
 {
     Console.WriteLine("Digite uma nota entre 0 e 10:");
-    nota = int.Parse(Console.ReadLine());
-} while (nota < 0 || nota > 10);
+    notaValida = int.Parse(Console.ReadLine());
+} while (notaValida < 0 || notaValida > 10);
 
-Console.WriteLine($"A nota digitada foi: {nota}");
+Console.WriteLine($"A nota digitada foi: {notaValida}");
 
-//3.3 Menu Interativo
-//Crie um menu que execute operações diferentes dependendo da escolha do usuário.
-
+// 3. Menu interativo
 int opcao;
 
 do
 {
-    Console.WriteLine("Escolha uma opção:");
+    Console.WriteLine("\nEscolha uma opção:");
     Console.WriteLine("1 - Exibir mensagem");
     Console.WriteLine("2 - Calcular soma");
     Console.WriteLine("0 - Sair");
@@ -175,7 +127,7 @@ do
             Console.WriteLine("Saindo...");
             break;
         default:
-            Console.WriteLine("Opção inválida!");
+            Console.WriteLine("Opção inválida! Tente novamente.");
             break;
     }
 } while (opcao != 0);
