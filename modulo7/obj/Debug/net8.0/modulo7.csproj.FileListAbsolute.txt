@@ -1,0 +1,5 @@
+/workspaces/C-Sharp/modulo7/obj/Debug/net8.0/modulo7.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/C-Sharp/modulo7/obj/Debug/net8.0/modulo7.AssemblyInfoInputs.cache
+/workspaces/C-Sharp/modulo7/obj/Debug/net8.0/modulo7.AssemblyInfo.cs
+/workspaces/C-Sharp/modulo7/obj/Debug/net8.0/modulo7.csproj.CoreCompileInputs.cache
+/workspaces/C-Sharp/modulo7/obj/Debug/net8.0/modulo7.sourcelink.json

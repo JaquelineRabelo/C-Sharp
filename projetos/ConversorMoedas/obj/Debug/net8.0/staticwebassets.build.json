@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "NDD3/3iVpjNbppTxSsu0QIu40fafHKPCkCmgQ64NlYI=",
+  "Source": "ConversorMoedas",
+  "BasePath": "_content/ConversorMoedas",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ConversorMoedas/wwwroot",
+      "Source": "ConversorMoedas",
+      "ContentRoot": "/workspaces/C-Sharp/projetos/ConversorMoedas/wwwroot/",
+      "BasePath": "_content/ConversorMoedas",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/workspaces/C-Sharp/projetos/ConversorMoedas/wwwroot/index.html",
+      "SourceId": "ConversorMoedas",
+      "SourceType": "Discovered",
+      "ContentRoot": "/workspaces/C-Sharp/projetos/ConversorMoedas/wwwroot/",
+      "BasePath": "_content/ConversorMoedas",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    },
+    {
+      "Identity": "/workspaces/C-Sharp/projetos/ConversorMoedas/wwwroot/inte.js",
+      "SourceId": "ConversorMoedas",
+      "SourceType": "Discovered",
+      "ContentRoot": "/workspaces/C-Sharp/projetos/ConversorMoedas/wwwroot/",
+      "BasePath": "_content/ConversorMoedas",
+      "RelativePath": "inte.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/inte.js"
+    },
+    {
+      "Identity": "/workspaces/C-Sharp/projetos/ConversorMoedas/wwwroot/style.css",
+      "SourceId": "ConversorMoedas",
+      "SourceType": "Discovered",
+      "ContentRoot": "/workspaces/C-Sharp/projetos/ConversorMoedas/wwwroot/",
+      "BasePath": "_content/ConversorMoedas",
+      "RelativePath": "style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/style.css"
+    }
+  ]
+}
