@@ -1,0 +1,15 @@
+/workspaces/C-Sharp/modulo7/interfacesAbstracao/bin/Debug/net8.0/interfacesAbstracao
+/workspaces/C-Sharp/modulo7/interfacesAbstracao/bin/Debug/net8.0/interfacesAbstracao.deps.json
+/workspaces/C-Sharp/modulo7/interfacesAbstracao/bin/Debug/net8.0/interfacesAbstracao.runtimeconfig.json
+/workspaces/C-Sharp/modulo7/interfacesAbstracao/bin/Debug/net8.0/interfacesAbstracao.dll
+/workspaces/C-Sharp/modulo7/interfacesAbstracao/bin/Debug/net8.0/interfacesAbstracao.pdb
+/workspaces/C-Sharp/modulo7/interfacesAbstracao/obj/Debug/net8.0/interfacesAbstracao.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/C-Sharp/modulo7/interfacesAbstracao/obj/Debug/net8.0/interfacesAbstracao.AssemblyInfoInputs.cache
+/workspaces/C-Sharp/modulo7/interfacesAbstracao/obj/Debug/net8.0/interfacesAbstracao.AssemblyInfo.cs
+/workspaces/C-Sharp/modulo7/interfacesAbstracao/obj/Debug/net8.0/interfacesAbstracao.csproj.CoreCompileInputs.cache
+/workspaces/C-Sharp/modulo7/interfacesAbstracao/obj/Debug/net8.0/interfacesAbstracao.sourcelink.json
+/workspaces/C-Sharp/modulo7/interfacesAbstracao/obj/Debug/net8.0/interfacesAbstracao.dll
+/workspaces/C-Sharp/modulo7/interfacesAbstracao/obj/Debug/net8.0/refint/interfacesAbstracao.dll
+/workspaces/C-Sharp/modulo7/interfacesAbstracao/obj/Debug/net8.0/interfacesAbstracao.pdb
+/workspaces/C-Sharp/modulo7/interfacesAbstracao/obj/Debug/net8.0/interfacesAbstracao.genruntimeconfig.cache
+/workspaces/C-Sharp/modulo7/interfacesAbstracao/obj/Debug/net8.0/ref/interfacesAbstracao.dll

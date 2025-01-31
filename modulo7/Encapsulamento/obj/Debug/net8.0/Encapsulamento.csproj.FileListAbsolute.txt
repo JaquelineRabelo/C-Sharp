@@ -1,0 +1,15 @@
+/workspaces/C-Sharp/modulo7/Encapsulamento/bin/Debug/net8.0/Encapsulamento
+/workspaces/C-Sharp/modulo7/Encapsulamento/bin/Debug/net8.0/Encapsulamento.deps.json
+/workspaces/C-Sharp/modulo7/Encapsulamento/bin/Debug/net8.0/Encapsulamento.runtimeconfig.json
+/workspaces/C-Sharp/modulo7/Encapsulamento/bin/Debug/net8.0/Encapsulamento.dll
+/workspaces/C-Sharp/modulo7/Encapsulamento/bin/Debug/net8.0/Encapsulamento.pdb
+/workspaces/C-Sharp/modulo7/Encapsulamento/obj/Debug/net8.0/Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/C-Sharp/modulo7/Encapsulamento/obj/Debug/net8.0/Encapsulamento.AssemblyInfoInputs.cache
+/workspaces/C-Sharp/modulo7/Encapsulamento/obj/Debug/net8.0/Encapsulamento.AssemblyInfo.cs
+/workspaces/C-Sharp/modulo7/Encapsulamento/obj/Debug/net8.0/Encapsulamento.csproj.CoreCompileInputs.cache
+/workspaces/C-Sharp/modulo7/Encapsulamento/obj/Debug/net8.0/Encapsulamento.sourcelink.json
+/workspaces/C-Sharp/modulo7/Encapsulamento/obj/Debug/net8.0/Encapsulamento.dll
+/workspaces/C-Sharp/modulo7/Encapsulamento/obj/Debug/net8.0/refint/Encapsulamento.dll
+/workspaces/C-Sharp/modulo7/Encapsulamento/obj/Debug/net8.0/Encapsulamento.pdb
+/workspaces/C-Sharp/modulo7/Encapsulamento/obj/Debug/net8.0/Encapsulamento.genruntimeconfig.cache
+/workspaces/C-Sharp/modulo7/Encapsulamento/obj/Debug/net8.0/ref/Encapsulamento.dll
