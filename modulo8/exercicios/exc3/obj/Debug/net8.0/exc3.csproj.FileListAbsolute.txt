@@ -1,0 +1,15 @@
+/workspaces/C-Sharp/modulo8/exercicios/exc3/bin/Debug/net8.0/exc3
+/workspaces/C-Sharp/modulo8/exercicios/exc3/bin/Debug/net8.0/exc3.deps.json
+/workspaces/C-Sharp/modulo8/exercicios/exc3/bin/Debug/net8.0/exc3.runtimeconfig.json
+/workspaces/C-Sharp/modulo8/exercicios/exc3/bin/Debug/net8.0/exc3.dll
+/workspaces/C-Sharp/modulo8/exercicios/exc3/bin/Debug/net8.0/exc3.pdb
+/workspaces/C-Sharp/modulo8/exercicios/exc3/obj/Debug/net8.0/exc3.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/C-Sharp/modulo8/exercicios/exc3/obj/Debug/net8.0/exc3.AssemblyInfoInputs.cache
+/workspaces/C-Sharp/modulo8/exercicios/exc3/obj/Debug/net8.0/exc3.AssemblyInfo.cs
+/workspaces/C-Sharp/modulo8/exercicios/exc3/obj/Debug/net8.0/exc3.csproj.CoreCompileInputs.cache
+/workspaces/C-Sharp/modulo8/exercicios/exc3/obj/Debug/net8.0/exc3.sourcelink.json
+/workspaces/C-Sharp/modulo8/exercicios/exc3/obj/Debug/net8.0/exc3.dll
+/workspaces/C-Sharp/modulo8/exercicios/exc3/obj/Debug/net8.0/refint/exc3.dll
+/workspaces/C-Sharp/modulo8/exercicios/exc3/obj/Debug/net8.0/exc3.pdb
+/workspaces/C-Sharp/modulo8/exercicios/exc3/obj/Debug/net8.0/exc3.genruntimeconfig.cache
+/workspaces/C-Sharp/modulo8/exercicios/exc3/obj/Debug/net8.0/ref/exc3.dll

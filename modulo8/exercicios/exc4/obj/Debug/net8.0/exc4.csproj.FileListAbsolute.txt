@@ -1,0 +1,15 @@
+/workspaces/C-Sharp/modulo8/exercicios/exc4/obj/Debug/net8.0/exc4.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/C-Sharp/modulo8/exercicios/exc4/obj/Debug/net8.0/exc4.AssemblyInfoInputs.cache
+/workspaces/C-Sharp/modulo8/exercicios/exc4/obj/Debug/net8.0/exc4.AssemblyInfo.cs
+/workspaces/C-Sharp/modulo8/exercicios/exc4/obj/Debug/net8.0/exc4.csproj.CoreCompileInputs.cache
+/workspaces/C-Sharp/modulo8/exercicios/exc4/obj/Debug/net8.0/exc4.sourcelink.json
+/workspaces/C-Sharp/modulo8/exercicios/exc4/bin/Debug/net8.0/exc4
+/workspaces/C-Sharp/modulo8/exercicios/exc4/bin/Debug/net8.0/exc4.deps.json
+/workspaces/C-Sharp/modulo8/exercicios/exc4/bin/Debug/net8.0/exc4.runtimeconfig.json
+/workspaces/C-Sharp/modulo8/exercicios/exc4/bin/Debug/net8.0/exc4.dll
+/workspaces/C-Sharp/modulo8/exercicios/exc4/bin/Debug/net8.0/exc4.pdb
+/workspaces/C-Sharp/modulo8/exercicios/exc4/obj/Debug/net8.0/exc4.dll
+/workspaces/C-Sharp/modulo8/exercicios/exc4/obj/Debug/net8.0/refint/exc4.dll
+/workspaces/C-Sharp/modulo8/exercicios/exc4/obj/Debug/net8.0/exc4.pdb
+/workspaces/C-Sharp/modulo8/exercicios/exc4/obj/Debug/net8.0/exc4.genruntimeconfig.cache
+/workspaces/C-Sharp/modulo8/exercicios/exc4/obj/Debug/net8.0/ref/exc4.dll

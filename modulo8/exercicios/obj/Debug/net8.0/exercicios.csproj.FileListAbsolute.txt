@@ -1,0 +1,15 @@
+/workspaces/C-Sharp/modulo8/exercicios/bin/Debug/net8.0/exercicios
+/workspaces/C-Sharp/modulo8/exercicios/bin/Debug/net8.0/exercicios.deps.json
+/workspaces/C-Sharp/modulo8/exercicios/bin/Debug/net8.0/exercicios.runtimeconfig.json
+/workspaces/C-Sharp/modulo8/exercicios/bin/Debug/net8.0/exercicios.dll
+/workspaces/C-Sharp/modulo8/exercicios/bin/Debug/net8.0/exercicios.pdb
+/workspaces/C-Sharp/modulo8/exercicios/obj/Debug/net8.0/exercicios.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/C-Sharp/modulo8/exercicios/obj/Debug/net8.0/exercicios.AssemblyInfoInputs.cache
+/workspaces/C-Sharp/modulo8/exercicios/obj/Debug/net8.0/exercicios.AssemblyInfo.cs
+/workspaces/C-Sharp/modulo8/exercicios/obj/Debug/net8.0/exercicios.csproj.CoreCompileInputs.cache
+/workspaces/C-Sharp/modulo8/exercicios/obj/Debug/net8.0/exercicios.sourcelink.json
+/workspaces/C-Sharp/modulo8/exercicios/obj/Debug/net8.0/exercicios.dll
+/workspaces/C-Sharp/modulo8/exercicios/obj/Debug/net8.0/refint/exercicios.dll
+/workspaces/C-Sharp/modulo8/exercicios/obj/Debug/net8.0/exercicios.pdb
+/workspaces/C-Sharp/modulo8/exercicios/obj/Debug/net8.0/exercicios.genruntimeconfig.cache
+/workspaces/C-Sharp/modulo8/exercicios/obj/Debug/net8.0/ref/exercicios.dll
