@@ -62,8 +62,7 @@ This repository contains my progress and study materials in C#. The modules are 
 ## 🚀 Learning Resources
 Each module contains example codes and explanations to facilitate learning. To run the examples, simply open the `.cs` files in a compatible C# development environment and execute the code.
 
-## 📜 License
-This repository is under the [MIT license](LICENSE). Feel free to use and modify as needed.
+
 
 ## ✉️ Contact
 For any questions or suggestions, please get in touch!
